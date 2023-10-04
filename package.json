@@ -9,12 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "luxon": "^3.4.3",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "react-icons": "^4.11.0"
+    "react-icons": "^4.11.0",
+    "reading-time": "^1.5.0"
   },
   "devDependencies": {
+    "@types/luxon": "^3.3.2",
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
